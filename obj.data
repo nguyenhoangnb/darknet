@@ -1,5 +1,5 @@
 classes = 1
-train = /content/drive/MyDrive/darknet/data/train.txt
-valid = /content/drive/MyDrive/darknet/data/valid.txt
-names = /content/drive/MyDrive/darknet/data/obj.names
-backup = /content/drive/MyDrive/darknet/backup
+train = /kaggle/working/darknet/data/train.txt
+valid = /kaggle/working/darknet/data/valid.txt
+names = /kaggle/working/darknet/data/obj.names
+backup = /kaggle/working/darknet/backup
